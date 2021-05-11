@@ -11,11 +11,11 @@ Initialize a temporary Hive database for testing
 
 ## 🚀 Installation
 
-Install passputter from [pub.dev](https://pub.dev/packages/hive_test):
+Install from [pub.dev](https://pub.dev/packages/hive_test):
 
 ```yaml
 dev_dependencides:
-  hive_test: ^1.0.0
+  hive_test: ^1.0.1
 ```
 
 ## 🔨 Usage

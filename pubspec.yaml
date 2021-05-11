@@ -1,6 +1,6 @@
 name: hive_test
 description: Initialize a temporary Hive database for testing
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/netsells/hive_test
 
 environment:
